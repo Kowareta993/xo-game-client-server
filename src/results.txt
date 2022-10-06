@@ -1,0 +1,3 @@
+game on port 12347 finished, result: O
+game on port 12349 finished, result: X
+game on port 4445 finished, result: X
